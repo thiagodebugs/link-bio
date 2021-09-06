@@ -2,7 +2,7 @@
 
 ### Que tal um link bio bonitão e personalizado?
 
-![](readme-media/example.gif)
+![Example](readme-media/example.gif)
 
 Faça você mesmo o seu proprio link bio personalizado utilizando este template.
 
