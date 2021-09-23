@@ -15,4 +15,4 @@ Faça você mesmo o seu proprio link bio personalizado utilizando este template.
 ## FAQ
 
 - Fiz o deploy porem não esta funcionado, e agora?
-  - Entre em contato <a href="mailto:thiagomendonca09@gmail.com.br">thiagomendonca09@gmail.com.br
+  - Entre em contato <a href="http://thiagodebugs.github.io/link-bio">contato</a>
